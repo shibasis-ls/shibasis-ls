@@ -25,6 +25,15 @@ visitor@github:~$ cat ./about_me.txt
 
 ---
 
+## `> pinned.projects`
+
+| Project                                                                                     | Description                                               | Stack                       |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
+| [**webbf**](https://github.com/shibasis-ls/webbf)                                           |A high-velocity tool designed to audit web authentication layers through automated credential spraying       | `Python`       |
+| [**sha256sum_crack**](https://github.com/shibasis-ls/sha256sum_crack)                       |A lightweight tool designed to perform dictionary attacks against SHA256 hashes | `Python`           |
+
+---
+
 ## `> tech.stack`
 
 **Languages**
@@ -34,15 +43,6 @@ visitor@github:~$ cat ./about_me.txt
 **Frameworks & Operating Systems**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,graphql,kali,linux,mysql,vim,vscode,windows)](https://skillicons.dev)
-
----
-
-## `> pinned.projects`
-
-| Project                                                                                     | Description                                               | Stack                       |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
-| [**webbf**](https://github.com/shibasis-ls/webbf)                                           |A high-velocity tool designed to audit web authentication layers through automated credential spraying       | `Python`       |
-| [**sha256sum_crack**](https://github.com/shibasis-ls/sha256sum_crack)                       |A lightweight tool designed to perform dictionary attacks against SHA256 hashes | `Python`           |
 
 ---
 
