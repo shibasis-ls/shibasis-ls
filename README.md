@@ -63,6 +63,7 @@ current = {
 ```python
 contact = {
     "github"  : "github.com/shibasis-ls",
+    "email"   : "shibasis314@proton.me",
     "uni"     : "NIT Durgapur",
     "status"  : "Open to collabs & opportunities 🟢",
 }
@@ -72,7 +73,8 @@ print("Let's make the internet a safer place")
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-shibasis--ls-a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/shibasis-ls)
+[![GitHub](https://img.shields.io/badge/GitHub-shibasis--ls-2e6f40?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/shibasis-ls)
+[![GitHub](https://img.shields.io/badge/Mail-shibasis-222021?style=for-the-badge&logo=email&logoColor=222021&labelColor=023E8A)](mailto:shibasis314@proton.me)
 ![Visitors](https://komarev.com/ghpvc/?username=shibasis-ls&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
 
 </div>
