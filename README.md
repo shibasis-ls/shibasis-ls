@@ -51,8 +51,8 @@ visitor@github:~$ cat ./about_me.txt
 ```python
 current = {
     "learning"  : ["WebApp Pentesting", "AI Red Teaming", "Active Directory"],
-    "building"  : "Custon C2 Framework — stay tuned 👀",
-    "reading"   : "Bug Bounty Bootcamp - Vickie Li",
+    "building"  : "netcat.py",
+    "reading"   : "Black Hat Python",
 }
 ```
 
