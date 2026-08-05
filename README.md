@@ -29,6 +29,7 @@ visitor@github:~$ cat ./about_me.txt
 
 | Project                                                                                     | Description                                               | Stack                       |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
+| [**netcat**](https://github.com/shibasis-ls/netcat.git)                              |A Python reimplementation of core netcat functionality, built for network communication, remote command execution, and file transfer       | `Python`       |
 | [**webbf**](https://github.com/shibasis-ls/webbf)                                           |A high-velocity tool designed to audit web authentication layers through automated credential spraying       | `Python`       |
 | [**sha256sum_crack**](https://github.com/shibasis-ls/sha256sum_crack)                       |A lightweight tool designed to perform dictionary attacks against SHA256 hashes | `Python`           |
 
@@ -51,7 +52,7 @@ visitor@github:~$ cat ./about_me.txt
 ```python
 current = {
     "learning"  : ["WebApp Pentesting", "AI Red Teaming", "Active Directory"],
-    "building"  : "netcat.py",
+    "building"  : "Custom C2 Framework",
     "reading"   : "Black Hat Python",
 }
 ```
