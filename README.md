@@ -30,8 +30,9 @@ visitor@github:~$ cat ./about_me.txt
 | Project                                                                                     | Description                                               | Stack                       |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
 | [**netcat**](https://github.com/shibasis-ls/netcat.git)                              |A Python reimplementation of core netcat functionality, built for network communication, remote command execution, and file transfer       | `Python`       |
+| [**tcp-proxy**](https://github.com/shibasis-ls/tcp-proxy.git)                                          |A transparent TCP proxy for intercepting, logging, and modifying traffic between a client and a remote host.      | `Python`       |
 | [**webbf**](https://github.com/shibasis-ls/webbf)                                           |A high-velocity tool designed to audit web authentication layers through automated credential spraying       | `Python`       |
-| [**sha256sum_crack**](https://github.com/shibasis-ls/sha256sum_crack)                       |A lightweight tool designed to perform dictionary attacks against SHA256 hashes | `Python`           |
+
 
 ---
 
