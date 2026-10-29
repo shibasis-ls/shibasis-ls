@@ -19,7 +19,6 @@ visitor@github:~$ cat ./about_me.txt
   Handle  : shibasis-ls
   Uni     : NIT Durgapur  
   Focus   : Cybersecurity · Red Teaming · AI Red Teaming · Bug Bounty
-  Status  : ▰▰▰▰▰▱  Learning every day
   Collab  : OPEN — reach out anytime ✅
 ```
 
